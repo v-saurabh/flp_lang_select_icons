@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"flplangsel": {
+			"component": "com.demo.demoshellplugin",
+			"url": "../../../../../"
+		}
+	}
+}
